@@ -50,7 +50,7 @@ export default function LandingPage() {
           ]}
           buttonAnimation="slide-up"
           background={{ variant: "plain" }}
-          imageSrc="http://img.b2bpic.net/free-photo/cupcakes-with-cup-coffee_114579-19197.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AzWwYqYQ0VU3qHpJgqQsvrJvII/uploaded-1773596974598-wvaj9lzo.webp"
           imageAlt="Fresh bakery items - breads, cakes, puffs, cookies, and pastries"
           mediaAnimation="opacity"
           frameStyle="card"
