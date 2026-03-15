@@ -125,7 +125,7 @@ export default function LandingPage() {
               id: "pastries",              name: "Pastries",              price: "",              variant: "Assorted",              imageSrc: "http://img.b2bpic.net/free-photo/beautiful-delicious-dessert-top-view_23-2148717406.jpg",              imageAlt: "Fresh pastries display"
             },
             {
-              id: "snacks",              name: "Daily Snacks",              price: "",              variant: "Quick Bites",              imageSrc: "http://img.b2bpic.net/free-photo/plate-with-pakistani-food-high-angle_23-2148825157.jpg?_wi=2",              imageAlt: "Quick snack options"
+              id: "snacks",              name: "Khari,Butter and Toast ",              price: "",              variant: "Quick Bites",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AzWwYqYQ0VU3qHpJgqQsvrJvII/uploaded-1773598145235-n49klgfz.jpg",              imageAlt: "Quick snack options"
             }
           ]}
           textboxLayout="default"
