@@ -116,7 +116,7 @@ export default function LandingPage() {
               id: "cakes",              name: "Celebration Cakes",              price: "₹300-800",              variant: "Custom Orders",              imageSrc: "http://img.b2bpic.net/free-photo/birthday-cake-front-watercolor-background_23-2148015948.jpg",              imageAlt: "Beautiful celebration cakes"
             },
             {
-              id: "puffs",              name: "Puffs & Rolls",              price: "₹20-50",              variant: "Hot & Fresh",              imageSrc: "http://img.b2bpic.net/free-photo/plate-with-pakistani-food-high-angle_23-2148825157.jpg",              imageAlt: "Golden crispy puffs"
+              id: "puffs",              name: "Puffs & Rolls",              price: "₹20-50",              variant: "Hot & Fresh",              imageSrc: "http://img.b2bpic.net/free-photo/plate-with-pakistani-food-high-angle_23-2148825157.jpg?_wi=1",              imageAlt: "Golden crispy puffs"
             },
             {
               id: "cookies",              name: "Cookies & Biscuits",              price: "₹30-60",              variant: "Homemade",              imageSrc: "http://img.b2bpic.net/free-photo/front-view-tasty-pancakes-with-sweet-cakes-fruits-dark-surface-sweet-cake-dessert_140725-82020.jpg",              imageAlt: "Fresh baked cookies variety"
@@ -125,7 +125,7 @@ export default function LandingPage() {
               id: "pastries",              name: "Pastries",              price: "₹50-100",              variant: "Assorted",              imageSrc: "http://img.b2bpic.net/free-photo/beautiful-delicious-dessert-top-view_23-2148717406.jpg",              imageAlt: "Fresh pastries display"
             },
             {
-              id: "snacks",              name: "Daily Snacks",              price: "₹15-40",              variant: "Quick Bites",              imageSrc: "http://img.b2bpic.net/free-photo/plate-with-pakistani-food-high-angle_23-2148825157.jpg",              imageAlt: "Quick snack options"
+              id: "snacks",              name: "Daily Snacks",              price: "₹15-40",              variant: "Quick Bites",              imageSrc: "http://img.b2bpic.net/free-photo/plate-with-pakistani-food-high-angle_23-2148825157.jpg?_wi=2",              imageAlt: "Quick snack options"
             }
           ]}
           textboxLayout="default"
