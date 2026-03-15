@@ -67,7 +67,7 @@ export default function LandingPage() {
           tagAnimation="slide-up"
           buttons={[{ text: "Visit Us Today", href: "tel:087797-05637" }]}
           buttonAnimation="slide-up"
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AzWwYqYQ0VU3qHpJgqQsvrJvII/uploaded-1773597042927-rk591370.webp"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AzWwYqYQ0VU3qHpJgqQsvrJvII/uploaded-1773597179750-o5joykvd.jpg"
           imageAlt="Warm and welcoming Bangalore Iyangar's Bakery storefront"
           useInvertedBackground={false}
           ariaLabel="About section"
