@@ -233,7 +233,7 @@ export default function LandingPage() {
               ]
             }
           ]}
-          copyrightText="© 2025 Bangalore Iyangar's Bakery. Freshly Baked Goodness in Thane."
+          copyrightText="Bangalore Iyangar's Bakery. Freshly Baked Goodness in Thane."
           ariaLabel="Site footer"
         />
       </div>
