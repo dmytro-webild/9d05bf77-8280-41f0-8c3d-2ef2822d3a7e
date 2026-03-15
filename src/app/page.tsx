@@ -116,7 +116,7 @@ export default function LandingPage() {
               id: "cakes",              name: "Celebration Cakes",              price: "",              variant: "Custom Orders",              imageSrc: "http://img.b2bpic.net/free-photo/birthday-cake-front-watercolor-background_23-2148015948.jpg",              imageAlt: "Beautiful celebration cakes"
             },
             {
-              id: "puffs",              name: "Puffs & Rolls",              price: "",              variant: "Hot & Fresh",              imageSrc: "http://img.b2bpic.net/free-photo/plate-with-pakistani-food-high-angle_23-2148825157.jpg?_wi=1",              imageAlt: "Golden crispy puffs"
+              id: "puffs",              name: "Puffs ",              price: "",              variant: "Hot & Fresh",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AzWwYqYQ0VU3qHpJgqQsvrJvII/uploaded-1773597946734-rt5wtweq.jpg",              imageAlt: "Golden crispy puffs"
             },
             {
               id: "cookies",              name: "Cookies & Biscuits",              price: "",              variant: "Homemade",              imageSrc: "http://img.b2bpic.net/free-photo/front-view-tasty-pancakes-with-sweet-cakes-fruits-dark-surface-sweet-cake-dessert_140725-82020.jpg",              imageAlt: "Fresh baked cookies variety"
